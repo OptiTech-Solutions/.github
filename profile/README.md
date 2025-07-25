@@ -38,4 +38,4 @@ We aim to:
 
 ## Contact
 
-For partnerships or inquiries, please reach out directly via GitHub or email : @elik.amuzu.com
+For partnerships or inquiries, please reach out directly via GitHub or email : @elik.amuzu@gmail.com
